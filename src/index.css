@@ -16,3 +16,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+p {
+  font-size: 20px;
+}
+.writing-mode-horizontal {
+  writing-mode: horizontal-tb;
+}
+.writing-mode-vertical {
+  writing-mode: vertical-lr;
+}
+.writing-mode-vertical-rl {
+  writing-mode: vertical-rl;
+}
