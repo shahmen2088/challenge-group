@@ -1,8 +1,5 @@
 import Marquee from 'react-fast-marquee';
 import { MarqueeItem } from '../MarqueeItem/MarqueeItem';
-const NAME_SERVICE_1 = ['НАКЛЕЙКА', 'ЛАЙТБОКС', 'СТЕНД'];
-const NAME_SERVICE_2 = ['БАННЕР', 'РОЛЛАП', 'ВЫВЕСКА'];
-const NAME_SERVICE_3 = ['ПЛАКАТ', 'НЕОН', 'ИНТЕРЬЕРНАЯ ПЕЧАТЬ'];
 
 export default function MyMarquee() {
   return (

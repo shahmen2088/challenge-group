@@ -1,7 +1,7 @@
 import { AboutUs } from '../BlockAboutUs/AboutUs';
 import { Guarantee } from '../BlockGuarantees/Guarantee';
-import MyMarquee from '~/shared/UI/MyMarquee/MyMarquee';
 import { Video } from '../BlockVideo/Video';
+import MyMarquee from '~/shared/UI/MyMarquee/MyMarquee';
 
 export const Main = () => {
   return (
