@@ -5,7 +5,7 @@ import MyMarquee from '~/shared/UI/MyMarquee/MyMarquee';
 
 export const Main = () => {
   return (
-    <main className="container mx-auto h-full overflow-hidden ">
+    <main className="container mx-auto h-full ">
       <div className="block-section  bg-cover bg-no-repeat bg-center bg-[url('./assets/back.jpg')]">
         <div className="flex justify-end min-h-[700px] flex-col items-center h-full ">
           <div className="mb-14">
