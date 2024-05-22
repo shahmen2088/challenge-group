@@ -1,5 +1,8 @@
 import { AboutUs } from '../BlockAboutUs/AboutUs';
+import Banner from '../BlockBanner/Banner';
 import { Guarantee } from '../BlockGuarantees/Guarantee';
+import { Reviews } from '../BlockReviews/Reviews';
+import Service from '../BlockService/Service';
 import { Video } from '../BlockVideo/Video';
 import MyMarquee from '~/shared/UI/MyMarquee/MyMarquee';
 
@@ -39,6 +42,9 @@ export const Main = () => {
       <Guarantee />
       <AboutUs />
       <Video />
+      <Reviews />
+      <Banner />
+      <Service />
     </main>
   );
 };
